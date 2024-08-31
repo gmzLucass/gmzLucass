@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, mi nombre es Lucas</h1>
 <h3 align="center">Desarrollador de Software Apasionado por la Innovación</h3>
 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - 🔭 Actualmente estoy trabajando en **Lotify**
 
 - 🌱 🌱 Desarrollador de Software Proactivo y en Crecimiento, Dedicado a Crear Soluciones Innovadoras y Explorar Nuevas Tecnologías **Kotlin, PHP,Firebase, Javascript**
