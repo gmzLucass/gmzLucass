@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en **Lotify**
 
-- 🌱 🌱 Actualmente estoy aprendiendo **Kotlin, PHP,Firebase, Javascript**
+- 🌱 🌱 Desarrollador de Software Proactivo y en Crecimiento, Dedicado a Crear Soluciones Innovadoras y Explorar Nuevas Tecnologías **Kotlin, PHP,Firebase, Javascript**
 
 - 📫 Cómo contactar conmigo **https://www.linkedin.com/in/lucas-gomez-2ba1a9326/**
 
