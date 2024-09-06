@@ -11,11 +11,12 @@
 <h3 align="left">Puedes encontrarme en:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lucas-gomez-2ba1a9326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas gomez" height="30" width="40" /></a>
-  <a href="https://gmzlucass.github.io/Lucas-Gomez-CV/" target="_blank">
+  <a href="https://gmzlucass.github.io/Lucas-Gomez-CV/" target="_blank" style="display: block; text-align: right;">
     <button style="padding: 10px 20px; background-color: #FF1E00; color: white; border: none; border-radius: 5px; cursor: pointer;">
         Ver mi CV
     </button>
 </a>
+
 </p>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
