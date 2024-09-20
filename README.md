@@ -39,6 +39,6 @@
 
 <a href="https://gmzlucass.github.io/Lucas-Gomez-CV/" target="_blank" style="display: block; text-align: right; margin: 20px 0;">
     <button style="padding: 10px; background-color: #FF1E00; border: none; border-radius: 5px; cursor: pointer;">
-        <img src="https://github.com/gmzLucass/gmzLucass/blob/main/cv.png" alt="CV Logo" style="height: 30px;"/>
+        <img src="https://github.com/gmzLucass/gmzLucass/blob/main/cv.png" alt="CV Logo" style="height: 90px;"/>
     </button>
 </a>
