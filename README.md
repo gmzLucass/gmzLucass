@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, mi nombre es Lucas</h1>
-<h3 align="center">Desarrollador de Software Apasionado por la Innovación</h3>
+<h3 align="center">Desarrollador de software apasionado por la innovación</h3>
 
 <img width="55%" align="right" alt="Github" src="https://github.com/gmzLucass/gmzLucass/blob/main/lotifyicon.png" />
 
