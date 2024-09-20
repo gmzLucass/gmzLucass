@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador de software apasionado por la innovación</h3>
 
 <div align="center" style="margin-top: 50px; margin-bottom: 50px;">
-    <img src="https://github.com/gmzLucass/gmzLucass/blob/main/DEV.jpg" alt="Dev Image" style="width: 75%; margin-bottom: 50px; border-radius: 60px;" />
+    <img src="https://github.com/gmzLucass/gmzLucass/blob/main/DEV.jpg" alt="Dev Image" style="width: 75%; margin-bottom: 50px;" />
 </div>
 
 - 🔭 Actualmente estoy trabajando en **Lotify**
