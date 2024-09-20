@@ -2,13 +2,13 @@
 <h3 align="center">Desarrollador de software apasionado por la innovación</h3>
 
 <div align="center" style="margin-top: 50px; margin-bottom: 50px;">
-<img src="https://github.com/gmzLucass/gmzLucass/blob/main/DEV.jpg" alt="Dev Image" style="width: 75%;" />
+    <img src="https://github.com/gmzLucass/gmzLucass/blob/main/DEV.jpg" alt="Dev Image" style="width: 75%; margin-bottom: 50px; border-radius: 20px;" />
 </div>
 
 - 🔭 Actualmente estoy trabajando en **Lotify**
 
 
-<h3 align="left">Puedes encontrarme en:</h3>
+<h3 align="left">Puedes encontrarme en Linkedin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lucas-gomez-2ba1a9326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas gomez" height="30" width="40" /></a>
 </p>
@@ -33,10 +33,10 @@
     </button>
 </a>
 
-
-
+<div align="center" style="margin-top: 50px; margin-bottom: 50px;">
 - 🌱 Desarrollador de Software proactivo y en crecimiento, dedicado a crear soluciones innovadoras y explorar nuevas tecnologías **Kotlin, PHP, Firebase, Javascript**
-- 
+</div> 
+
 <div align="center" style="margin-top: 50px;">
     <img src="https://github.com/gmzLucass/gmzLucass/blob/main/lotifyicon.png" alt="Lotify Icon" width="200px" style="display: block; margin: auto;" />
 </div>
