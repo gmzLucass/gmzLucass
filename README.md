@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, mi nombre es Lucas</h1>
 <h3 align="center">Desarrollador de software apasionado por la innovación</h3>
 
-<img src="https://github.com/gmzLucass/gmzLucass/blob/main/DEV.jpg" alt="Dev Image" style="width: 100%;" />
+<img src="https://github.com/gmzLucass/gmzLucass/blob/main/DEV.jpg" alt="Dev Image" style="width: 45%;" />
 
 - 🔭 Actualmente estoy trabajando en **Lotify**
 
