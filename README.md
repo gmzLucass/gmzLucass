@@ -9,7 +9,7 @@
 <h3 align="left">Puedes encontrarme en:</h3>
 <p align="left">
     <img width="55%" align="right" alt="Github" src="ruta/a/tu-imagen.png" />
-<a href="https://linkedin.com/in/lucas-gomez-2ba1a9326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://github.com/gmzLucass/gmzLucass/blob/main/lotifyicon.png" alt="lucas gomez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lucas-gomez-2ba1a9326/" target="blank"><img align="center" src="https://github.com/gmzLucass/gmzLucass/blob/main/lotifyicon.png" alt="lucas gomez" height="30" width="40" /></a>
 
 
 
