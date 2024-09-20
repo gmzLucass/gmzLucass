@@ -5,9 +5,7 @@
     <img src="https://github.com/gmzLucass/gmzLucass/blob/main/DEV.jpg" alt="Dev Image" style="width: 75%; margin-bottom: 50px;" />
 </div>
 
-<div align="center" style="margin-top: 50px;>
 - 🌱 Desarrollador de Software proactivo y en crecimiento, dedicado a crear soluciones innovadoras y explorar nuevas tecnologías **Kotlin, PHP, Firebase, Javascript**
-</div>
     
 <div align="center" style="margin-top: 80px; margin-bottom: 50px;">
 - 🔭 Actualmente estoy trabajando en **Lotify**
