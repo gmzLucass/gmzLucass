@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, mi nombre es Lucas</h1>
 <h3 align="center">Desarrollador de Software Apasionado por la Innovación</h3>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 - 🔭 Actualmente estoy trabajando en **Lotify**
 
 - 🌱 🌱 Desarrollador de Software proactivo y en crecimiento, dedicado a crear soluciones innovadoras y explorar nuevas tecnologías **Kotlin, PHP,Firebase, Javascript**
@@ -10,7 +8,8 @@
 
 <h3 align="left">Puedes encontrarme en:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lucas-gomez-2ba1a9326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas gomez" height="30" width="40" /></a>
+    <img width="55%" align="right" alt="Github" src="ruta/a/tu-imagen.png" />
+<a href="https://linkedin.com/in/lucas-gomez-2ba1a9326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://github.com/gmzLucass/gmzLucass/blob/main/lotifyicon.png" alt="lucas gomez" height="30" width="40" /></a>
 
 
 
