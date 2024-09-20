@@ -7,15 +7,10 @@
 
 - 🌱 Desarrollador de Software proactivo y en crecimiento, dedicado a crear soluciones innovadoras y explorar nuevas tecnologías **Kotlin, PHP, Firebase, Javascript**
     
-<div align="right" style="margin: 20px 0;">
-    <a href="https://gmzlucass.github.io/Lucas-Gomez-CV/" target="_blank">
-        <img src="https://github.com/gmzLucass/gmzLucass/blob/main/cv.png" alt="CV Logo" style="height: 90px;"/>
-    </a>
-</div>
 
 
 
-<div align="center" style="margin-top: 50px; margin-bottom: 50px;">
+<div align="center" style="margin-top: 80px; margin-bottom: 50px;">
 - 🔭 Actualmente estoy trabajando en **Lotify**
 </div> 
 
@@ -45,6 +40,11 @@
 </p>
 
 
+<div align="right" style="margin: 20px 0;">
+    <a href="https://gmzlucass.github.io/Lucas-Gomez-CV/" target="_blank">
+        <img src="https://github.com/gmzLucass/gmzLucass/blob/main/cv.png" alt="CV Logo" style="height: 90px;"/>
+    </a>
+</div>
 
 
 
