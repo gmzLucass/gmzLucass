@@ -27,11 +27,7 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 </p>
 
-<a href="https://gmzlucass.github.io/Lucas-Gomez-CV/" target="_blank" style="display: block; text-align: right;">
-    <button style="padding: 100px 20px; background-color: #FF1E00; color: white; border: none; border-radius: 5px; cursor: pointer;">
-        Puedes ver mi CV aquí.
-    </button>
-</a>
+
 
 <div align="center" style="margin-top: 50px; margin-bottom: 50px;">
 - 🌱 Desarrollador de Software proactivo y en crecimiento, dedicado a crear soluciones innovadoras y explorar nuevas tecnologías **Kotlin, PHP, Firebase, Javascript**
@@ -40,3 +36,9 @@
 <div align="center" style="margin-top: 50px;">
     <img src="https://github.com/gmzLucass/gmzLucass/blob/main/lotifyicon.png" alt="Lotify Icon" width="200px" style="display: block; margin: auto;" />
 </div>
+
+<a href="https://gmzlucass.github.io/Lucas-Gomez-CV/" target="_blank" style="display: block; text-align: right; margin: 20px 0;">
+    <button style="padding: 10px; background-color: #FF1E00; border: none; border-radius: 5px; cursor: pointer;">
+        <img src="https://github.com/gmzLucass/gmzLucass/blob/main/cv.png" alt="CV Logo" style="height: 30px;"/>
+    </button>
+</a>
