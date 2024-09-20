@@ -1,6 +1,14 @@
 <h1 align="center">Hola 👋, mi nombre es Lucas</h1>
 <h3 align="center">Desarrollador de software apasionado por la innovación</h3>
 
+<div align="right" style="margin: 20px 0;">
+    <a href="https://gmzlucass.github.io/Lucas-Gomez-CV/" target="_blank">
+        <img src="https://github.com/gmzLucass/gmzLucass/blob/main/cv.png" alt="CV Logo" style="height: 90px;"/>
+    </a>
+</div>
+
+
+
 <div align="center" style="margin-top: 50px; margin-bottom: 50px;">
     <img src="https://github.com/gmzLucass/gmzLucass/blob/main/DEV.jpg" alt="Dev Image" style="width: 75%; margin-bottom: 50px;" />
 </div>
