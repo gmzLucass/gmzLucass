@@ -15,7 +15,9 @@
 </div> 
 
 <div align="center" style="margin-top: 50px; margin-bottom: 150px;">
-    <img src="https://github.com/gmzLucass/gmzLucass/blob/main/lotifyicon.png" alt="Lotify Icon" width="200px" style="display: block; margin: auto;" />
+    <a href="https://github.com/Lucas-almada015/LOTIFY.llfsa" target="_blank">
+        <img src="https://github.com/gmzLucass/gmzLucass/blob/main/lotifyicon.png" alt="Lotify Icon" width="200px" style="display: block; margin: auto;" />
+    </a>
 </div>
 
 
