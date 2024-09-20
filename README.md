@@ -41,8 +41,7 @@
 
 
 <div align="center" style="margin-top: 50px; margin-bottom: 50px;">
-
-    - 🔭 Actualmente estoy trabajando en **Lotify**
+- 🔭 Actualmente estoy trabajando en **Lotify**
 </div> 
 
 <div align="center" style="margin-top: 50px;">
