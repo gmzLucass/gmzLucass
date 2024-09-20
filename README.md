@@ -12,8 +12,8 @@
     </a>
 </div>
 
-- 🔭 Actualmente estoy trabajando en **Lotify**
 
+- 🌱 Desarrollador de Software proactivo y en crecimiento, dedicado a crear soluciones innovadoras y explorar nuevas tecnologías **Kotlin, PHP, Firebase, Javascript**
 
 <h3 align="left">Puedes encontrarme en Linkedin:</h3>
 <p align="left">
@@ -37,7 +37,8 @@
 
 
 <div align="center" style="margin-top: 50px; margin-bottom: 50px;">
-- 🌱 Desarrollador de Software proactivo y en crecimiento, dedicado a crear soluciones innovadoras y explorar nuevas tecnologías **Kotlin, PHP, Firebase, Javascript**
+
+    - 🔭 Actualmente estoy trabajando en **Lotify**
 </div> 
 
 <div align="center" style="margin-top: 50px;">
