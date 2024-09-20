@@ -1,5 +1,4 @@
 <h1 align="center">Hola 👋, mi nombre es Lucas</h1>
-<h3 align="center">Desarrollador de software apasionado por la innovación</h3>
 
 <div align="right" style="margin: 20px 0;">
     <a href="https://gmzlucass.github.io/Lucas-Gomez-CV/" target="_blank">
@@ -7,17 +6,14 @@
     </a>
 </div>
 
-
+<h3 align="center">Desarrollador de software apasionado por la innovación</h3>
 
 <div align="center" style="margin-top: 50px; margin-bottom: 50px;">
     <img src="https://github.com/gmzLucass/gmzLucass/blob/main/DEV.jpg" alt="Dev Image" style="width: 75%; margin-bottom: 50px;" />
 </div>
 
 - 🌱 Desarrollador de Software proactivo y en crecimiento, dedicado a crear soluciones innovadoras y explorar nuevas tecnologías **Kotlin, PHP, Firebase, Javascript**
-    
-
-
-
+  
 <div align="center" style="margin-top: 80px; margin-bottom: 50px;">
 - 🔭 Actualmente estoy trabajando en **Lotify**
 </div> 
@@ -27,8 +23,6 @@
         <img src="https://github.com/gmzLucass/gmzLucass/blob/main/lotifyicon.png" alt="Lotify Icon" width="200px" style="display: block; margin: auto;" />
     </a>
 </div>
-
-
 
 <h3 align="left">Puedes encontrarme en Linkedin:</h3>
 <p align="left">
@@ -69,8 +63,6 @@
     <strong>Hardware:</strong><br>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
-
-
 
 <div align="right" style="margin: 20px 0;">
     <a href="https://gmzlucass.github.io/Lucas-Gomez-CV/" target="_blank">
