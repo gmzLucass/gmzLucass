@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente estoy trabajando en **Lotify**
 
-- 🌱 🌱 Desarrollador de Software Proactivo y en Crecimiento, Dedicado a Crear Soluciones Innovadoras y Explorar Nuevas Tecnologías **Kotlin, PHP,Firebase, Javascript**
+- 🌱 🌱 Desarrollador de Software proactivo y en crecimiento, dedicado a crear soluciones innovadoras y explorar nuevas tecnologías **Kotlin, PHP,Firebase, Javascript**
 
 
 <h3 align="left">Puedes encontrarme en:</h3>
