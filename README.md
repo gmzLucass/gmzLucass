@@ -4,8 +4,8 @@
 <div align="center" style="margin-top: 50px; margin-bottom: 50px;">
     <img src="https://github.com/gmzLucass/gmzLucass/blob/main/DEV.jpg" alt="Dev Image" style="width: 75%; margin-bottom: 50px;" />
 </div>
-    
-    - 🌱 Desarrollador de Software proactivo y en crecimiento, dedicado a crear soluciones innovadoras y explorar nuevas tecnologías **Kotlin, PHP, Firebase, Javascript**
+
+- 🌱 Desarrollador de Software proactivo y en crecimiento, dedicado a crear soluciones innovadoras y explorar nuevas tecnologías **Kotlin, PHP, Firebase, Javascript**
     
 <div style="margin: 20px 0; display: flex;">
     <a href="https://gmzlucass.github.io/Lucas-Gomez-CV/" target="_blank" style="margin-left: auto;">
