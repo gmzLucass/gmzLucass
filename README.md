@@ -7,7 +7,6 @@
 
 - 🔭 Actualmente estoy trabajando en **Lotify**
 
-- 🌱 Desarrollador de Software proactivo y en crecimiento, dedicado a crear soluciones innovadoras y explorar nuevas tecnologías **Kotlin, PHP, Firebase, Javascript**
 
 <h3 align="left">Puedes encontrarme en:</h3>
 <p align="left">
@@ -34,6 +33,10 @@
     </button>
 </a>
 
+
+
+- 🌱 Desarrollador de Software proactivo y en crecimiento, dedicado a crear soluciones innovadoras y explorar nuevas tecnologías **Kotlin, PHP, Firebase, Javascript**
+- 
 <div align="center" style="margin-top: 50px;">
     <img src="https://github.com/gmzLucass/gmzLucass/blob/main/lotifyicon.png" alt="Lotify Icon" width="200px" style="display: block; margin: auto;" />
 </div>
