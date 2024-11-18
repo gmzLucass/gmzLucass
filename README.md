@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador de software apasionado por la innovación</h3>
 
 <div align="center" style="margin: 50px 0;">
-    <img src="https://www.canva.com/design/DAGW3KWAbxs/BAmKarMl4Uv_f5WK4VLY2g/view?utm_content=DAGW3KWAbxs&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="Desarrollador" style="width: 75%; max-width: 800px; border-radius: 10px;" />
+    <img src="https://github.com/gmzLucass/gmzLucass/blob/main/DEV.png" alt="Desarrollador" style="width: 75%; max-width: 800px; border-radius: 10px;" />
 </div>
 
 - 🌱 Desarrollador proactivo en constante crecimiento, creando soluciones innovadoras y explorando nuevas tecnologías como **Kotlin, PHP, Firebase, JavaScript**.
