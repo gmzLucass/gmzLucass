@@ -2,9 +2,8 @@
 <h3 align="center">Desarrollador de software apasionado por la innovación</h3>
 
 <div align="center" style="margin: 50px 0;">
-    <img src="https://github.com/gmzLucass/gmzLucass/blob/main/DEV.jpg" alt="Desarrollador" style="width: 130%; height: 200px; object-fit: cover; border-radius: 10px;" />
+    <img src="https://github.com/gmzLucass/gmzLucass/blob/main/DEV.jpg" alt="Desarrollador" style="width: 75%; max-width: 800px; border-radius: 10px;" />
 </div>
-
 
 - 🌱 Desarrollador proactivo en constante crecimiento, creando soluciones innovadoras y explorando nuevas tecnologías como **Kotlin, PHP, Firebase, JavaScript**.
     
