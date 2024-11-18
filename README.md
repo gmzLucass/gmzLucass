@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador de software apasionado por la innovación</h3>
 
 <div align="center" style="margin: 50px 0;">
-    <img src="https://github.com/gmzLucass/gmzLucass/blob/main/DEV.jpg" alt="Desarrollador" style="width: 100%; max-width: 100%; height: auto; border-radius: 10px;" />
+    <img src="https://github.com/gmzLucass/gmzLucass/blob/main/DEV.jpg" alt="Desarrollador" style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px;" />
 </div>
 
 
