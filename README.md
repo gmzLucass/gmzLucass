@@ -79,8 +79,12 @@
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
     </a>
 </p>
+# Estadísticas de GitHub de gmzLucass
+
 ![gmzLucass's Stats](https://github-readme-stats.vercel.app/api?username=gmzLucass&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
+
 ![gmzLucass's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gmzLucass&theme=synthwave&hide_border=true)
+
 ![gmzLucass's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gmzLucass&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
 
 <div align="right" style="margin: 20px 0;">
