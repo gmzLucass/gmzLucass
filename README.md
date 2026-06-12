@@ -2,7 +2,7 @@
 
 ### Técnico Superior en Desarrollo de Software & Especialista en Automatización Industrial
 
-Soy **Técnico Electromecánico** y **Técnico Superior en Desarrollo de Software** de Córdoba, Argentina. Cuento con más de 6 años de experiencia en la industria automotriz y de manufactura (MABE) y 3 años en servicios de distribución eléctrica (Coovilros). 
+Soy **Técnico Electromecánico** y **Técnico Superior en Desarrollo de Software** de Córdoba, Argentina. Cuento con más de 6 años de experiencia en la industria de electrodomésticos y manufactura a gran escala (MABE) y 3 años en servicios de distribución eléctrica (Coovilros). 
 
 Mi enfoque está en tender un puente entre el **desarrollo de software** y el **control industrial**, creando soluciones integrales que conectan el código con la maquinaria de planta.
 
